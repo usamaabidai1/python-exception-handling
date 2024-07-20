@@ -8,7 +8,9 @@ To run this project, you'll need to have Python and the `pandas` library install
 
 ## Usage
 Run the script using the following command:
-`exception_handling.py`
+```sh
+exception_handling.py
+```
 
 ## Code Explanation
 This script performs the following tasks:
